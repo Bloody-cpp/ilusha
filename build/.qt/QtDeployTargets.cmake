@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_ilusha_FILE C:/Data/Cxx/VisualStudioCodeProjects/ilusha/build/ilusha.exe)
+set(__QT_DEPLOY_TARGET_ilusha_RUNTIME_DLLS C:/Data/Cxx/msys2/mingw64/bin/Qt6Widgets.dll;C:/Data/Cxx/msys2/mingw64/bin/Qt6Sql.dll;C:/Data/Cxx/msys2/mingw64/bin/Qt6Network.dll;C:/Data/Cxx/msys2/mingw64/bin/Qt6Concurrent.dll;C:/Data/Cxx/msys2/mingw64/bin/Qt6Gui.dll;C:/Data/Cxx/msys2/mingw64/bin/Qt6Core.dll)

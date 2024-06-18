@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Data/Cxx/VisualStudioCodeProjects/ilusha/build",
+  "command": "C:\\Data\\Cxx\\msys2\\mingw64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -IC:/Data/Cxx/VisualStudioCodeProjects/ilusha/build -IC:/Data/Cxx/VisualStudioCodeProjects/ilusha -IC:/Data/Cxx/VisualStudioCodeProjects/ilusha/build/ilusha_autogen/include -IC:/Data/Cxx/VisualStudioCodeProjects/ilusha/ilusha -IC:/Data/Cxx/VisualStudioCodeProjects/ilusha/include -isystem C:/Data/Cxx/msys2/mingw64/include/qt6/QtWidgets -isystem C:/Data/Cxx/msys2/mingw64/include/qt6 -isystem C:/Data/Cxx/msys2/mingw64/include/qt6/QtCore -isystem C:/Data/Cxx/msys2/mingw64/share/qt6/mkspecs/win32-g++ -isystem C:/Data/Cxx/msys2/mingw64/include/qt6/QtGui -isystem C:/Data/Cxx/msys2/mingw64/include/qt6/QtSql -isystem C:/Data/Cxx/msys2/mingw64/include/qt6/QtNetwork -isystem C:/Data/Cxx/msys2/mingw64/include/qt6/QtConcurrent -g -std=gnu++17 -o CMakeFiles\\ilusha.dir\\ilusha_autogen\\mocs_compilation.cpp.obj -c C:\\Data\\Cxx\\VisualStudioCodeProjects\\ilusha\\build\\ilusha_autogen\\mocs_compilation.cpp",
+  "file": "C:\\Data\\Cxx\\VisualStudioCodeProjects\\ilusha\\build\\ilusha_autogen\\mocs_compilation.cpp",
+  "output": "CMakeFiles\\ilusha.dir\\ilusha_autogen\\mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Data/Cxx/VisualStudioCodeProjects/ilusha/build",
+  "command": "C:\\Data\\Cxx\\msys2\\mingw64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -IC:/Data/Cxx/VisualStudioCodeProjects/ilusha/build -IC:/Data/Cxx/VisualStudioCodeProjects/ilusha -IC:/Data/Cxx/VisualStudioCodeProjects/ilusha/build/ilusha_autogen/include -IC:/Data/Cxx/VisualStudioCodeProjects/ilusha/ilusha -IC:/Data/Cxx/VisualStudioCodeProjects/ilusha/include -isystem C:/Data/Cxx/msys2/mingw64/include/qt6/QtWidgets -isystem C:/Data/Cxx/msys2/mingw64/include/qt6 -isystem C:/Data/Cxx/msys2/mingw64/include/qt6/QtCore -isystem C:/Data/Cxx/msys2/mingw64/share/qt6/mkspecs/win32-g++ -isystem C:/Data/Cxx/msys2/mingw64/include/qt6/QtGui -isystem C:/Data/Cxx/msys2/mingw64/include/qt6/QtSql -isystem C:/Data/Cxx/msys2/mingw64/include/qt6/QtNetwork -isystem C:/Data/Cxx/msys2/mingw64/include/qt6/QtConcurrent -g -std=gnu++17 -o CMakeFiles\\ilusha.dir\\src\\main.cpp.obj -c C:\\Data\\Cxx\\VisualStudioCodeProjects\\ilusha\\src\\main.cpp",
+  "file": "C:\\Data\\Cxx\\VisualStudioCodeProjects\\ilusha\\src\\main.cpp",
+  "output": "CMakeFiles\\ilusha.dir\\src\\main.cpp.obj"
+}
+]

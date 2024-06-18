@@ -1,0 +1,5 @@
+C:/Data/Cxx/VisualStudioCodeProjects/ilusha/build/CMakeFiles/ilusha.dir
+C:/Data/Cxx/VisualStudioCodeProjects/ilusha/build/CMakeFiles/edit_cache.dir
+C:/Data/Cxx/VisualStudioCodeProjects/ilusha/build/CMakeFiles/rebuild_cache.dir
+C:/Data/Cxx/VisualStudioCodeProjects/ilusha/build/CMakeFiles/ilusha_autogen_timestamp_deps.dir
+C:/Data/Cxx/VisualStudioCodeProjects/ilusha/build/CMakeFiles/ilusha_autogen.dir
