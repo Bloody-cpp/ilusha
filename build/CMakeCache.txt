@@ -206,21 +206,6 @@ CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 //Value Computed by CMake
 CMAKE_PROJECT_NAME:STATIC=ilusha
 
-//Value Computed by CMake
-CMAKE_PROJECT_VERSION:STATIC=0.1.0
-
-//Value Computed by CMake
-CMAKE_PROJECT_VERSION_MAJOR:STATIC=0
-
-//Value Computed by CMake
-CMAKE_PROJECT_VERSION_MINOR:STATIC=1
-
-//Value Computed by CMake
-CMAKE_PROJECT_VERSION_PATCH:STATIC=0
-
-//Value Computed by CMake
-CMAKE_PROJECT_VERSION_TWEAK:STATIC=
-
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=C:/Data/Cxx/msys2/mingw64/bin/ranlib.exe
 
@@ -367,15 +352,6 @@ ilusha_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 ilusha_SOURCE_DIR:STATIC=C:/Data/Cxx/VisualStudioCodeProjects/ilusha
-
-//Value Computed by CMake
-quty-client_BINARY_DIR:STATIC=C:/Data/Cxx/VisualStudioCodeProjects/ilusha/build
-
-//Value Computed by CMake
-quty-client_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-quty-client_SOURCE_DIR:STATIC=C:/Data/Cxx/VisualStudioCodeProjects/ilusha
 
 
 ########################
